@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Calculator</string>
+  <string name="btn">跳转到计算器</string>
+  <string name="place_holder">这里会显示计算结果</string>
+</resources>
